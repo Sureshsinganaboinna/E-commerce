@@ -1317,3 +1317,6 @@ Need more flexibility with validation rules? Learn more: https://rd.gt/3AbJUZE
 2025-05-26 17:00:41 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
 2025-05-26 17:00:41 [restartedMain] INFO  c.amazon.backend.BackendApplication - Started BackendApplication in 0.673 seconds (process running for 3263.033)
 2025-05-26 17:00:41 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-05-26 17:03:32 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-26 17:03:32 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-26 17:03:32 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
